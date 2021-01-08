@@ -2,7 +2,9 @@
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
