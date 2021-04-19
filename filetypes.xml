@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="bbnetwork-daemon" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
