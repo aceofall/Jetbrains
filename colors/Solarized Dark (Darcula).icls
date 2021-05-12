@@ -1777,6 +1777,11 @@
         <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1f1fd7" />
+      </value>
+    </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b58900" />
