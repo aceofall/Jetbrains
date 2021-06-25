@@ -1,9 +1,9 @@
 <application>
   <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
-    <option name="adbPath" value="/usr/local/bin/scrcpy" />
+    <option name="adbPath" value="$USER_HOME$/Projects/platform-tools/adb" />
     <option name="ip1" />
     <option name="ip2" value="42" />
     <option name="ip4" value="220" />
-    <option name="scrcpyPath" value="/usr/local/bin/scrcpy" />
+    <option name="scrcpyPath" value="/usr/local/Cellar/scrcpy/1.17_1/bin" />
   </component>
 </application>
