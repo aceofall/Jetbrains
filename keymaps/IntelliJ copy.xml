@@ -1,0 +1,47 @@
+<keymap version="1" name="IntelliJ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateUnityToolWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="ChooseDebugConfiguration" />
+  <action id="Console.TableResult.Reload" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="DebugClass" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="MultiHighlight">
+    <keyboard-shortcut first-keystroke="meta quote" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="NextWindow" />
+  <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Rider.Plugins.FSharp.SendToFsi" />
+  <action id="RiderUnitTestDebugContextAction" />
+  <action id="ShowUmlDiagramPopup" />
+  <action id="Svn.RefreshWorkingCopies" />
+  <action id="TriggerPauseInUnityEditor">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="TriggerPlayInUnity">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
+</keymap>
