@@ -1,0 +1,6 @@
+<application>
+  <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
+    <option name="adbPath" value="/usr/local/Cellar/scrcpy/1.18/bin/scrcpy" />
+    <option name="scrcpyPath" value="/usr/local/Cellar/scrcpy/1.18/bin/scrcpy" />
+  </component>
+</application>
