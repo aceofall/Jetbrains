@@ -1,4 +1,8 @@
 <keymap version="1" name="IntelliJ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
@@ -8,6 +12,9 @@
   </action>
   <action id="ActivateUnityToolWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="ChooseDebugConfiguration" />
