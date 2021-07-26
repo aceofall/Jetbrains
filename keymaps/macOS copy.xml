@@ -10,9 +10,13 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="Gradle.ExecuteTask">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
+  <action id="UnselectPreviousOccurrence" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
