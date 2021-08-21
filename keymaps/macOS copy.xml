@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="ActivateDebugToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
