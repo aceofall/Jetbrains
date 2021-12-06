@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
+    <extensionMap>
+      <removed_mapping ext="sql" approved="true" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
