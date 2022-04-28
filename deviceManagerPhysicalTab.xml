@@ -8,9 +8,9 @@
             <value value="adb-R54R303CKHF-PHk7wJ._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="samsung SM-T970" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -19,7 +19,6 @@
             <value value="10.42.11.167:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-28T02:27:25.088052Z" />
         <type value="TV" />
         <name value="NVIDIA SHIELD Android TV" />
         <target value="Android 9.0" />
