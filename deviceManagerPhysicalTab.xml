@@ -35,6 +35,19 @@
         <target value="Android 1.0" />
         <api value="1" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.42.11.218:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-02T01:31:18.795614Z" />
+        <type value="TV" />
+        <name value="NVIDIA SHIELD Android TV" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
