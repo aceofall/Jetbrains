@@ -55,6 +55,7 @@
             <value value="10.42.11.217:5555" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-05-02T08:29:56.893565Z" />
         <type value="TV" />
         <name value="NVIDIA SHIELD Android TV" />
         <target value="Android 9.0" />
