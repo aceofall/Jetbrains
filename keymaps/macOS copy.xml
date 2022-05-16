@@ -5,6 +5,9 @@
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
+  </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
