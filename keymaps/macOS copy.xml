@@ -21,6 +21,9 @@
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="Mvc.RunTarget" />
   <action id="NextWindow" />
   <action id="Terminal.SwitchFocusToEditor">
