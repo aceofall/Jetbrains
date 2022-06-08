@@ -10,5 +10,11 @@
   <action id="DBNavigator.Actions.DataEditor.FetchNextRecords">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
   <action id="hg4idea.QFold" />
 </keymap>
