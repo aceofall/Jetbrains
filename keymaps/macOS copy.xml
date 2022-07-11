@@ -1,5 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="ActivateDebugToolWindow" />
+  <action id="ActivateSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 5" />
