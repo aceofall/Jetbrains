@@ -1,0 +1,10 @@
+<application>
+  <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
+    <option name="adbPath" value="$USER_HOME$/project/tools/platform-tools/adb" />
+    <option name="positionHeight" value="1080" />
+    <option name="positionWidth" value="1920" />
+    <option name="positionX" value="0" />
+    <option name="positionY" value="0" />
+    <option name="scrcpyPath" value="/usr/local/bin/" />
+  </component>
+</application>

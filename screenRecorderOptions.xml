@@ -1,0 +1,7 @@
+<application>
+  <component name="ScreenRecorderOptions">
+    <option name="bitRateMbps" value="2" />
+    <option name="resolutionHeight" value="480" />
+    <option name="resolutionWidth" value="800" />
+  </component>
+</application>
