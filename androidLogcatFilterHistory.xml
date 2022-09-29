@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine vehicleReadyRingCalled" />
+    <option name="mostRecentlyUsed" value="package:mine toneGenerator" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine toneGenerator" />
+        <option value="package:mine " />
         <option value="package:mine vehicleReadyRingCalled" />
         <option value="package:mine false" />
         <option value="package:mine true" />
