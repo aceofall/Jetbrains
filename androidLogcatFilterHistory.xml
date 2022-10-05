@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine TBT" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine TBT" />
         <option value="package:mine " />
         <option value="package:mine tag:tbt" />
@@ -14,7 +15,6 @@
         <option value="package:mine true" />
         <option value="package:mine Ring" />
         <option value="Ring" />
-        <option value="package:mine" />
         <option value="package:mine tbt" />
       </list>
     </option>
