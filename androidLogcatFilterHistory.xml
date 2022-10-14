@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine totalTbtDataFlow" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine totalTbtDataFlow" />
         <option value="package:mine total tbt" />
         <option value="package:mine total" />
         <option value="package:mine totalTbt" />
-        <option value="package:mine " />
         <option value="package:mine tag: tbt " />
         <option value="package:mine tag: totalTBT" />
         <option value="package:mine tag: NaviSampleApp" />
