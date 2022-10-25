@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
         <option value="package:mine " />
         <option value="package:mine reportIssue" />
         <option value="package:mine Vehicle Work" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:TBT" />
         <option value="package:mine firstTBT" />
         <option value="package:mine toneGenerator" />
-        <option value="package:mine vehicleReadyRingCalled" />
       </list>
     </option>
   </component>
