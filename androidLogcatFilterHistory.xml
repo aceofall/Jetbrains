@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine reportIssue" />
         <option value="package:mine Vehicle Work" />
         <option value="package:mine Schedule" />
         <option value="package:mine -H 'Content-Type: application/json' \     -H 'app-device-uuid: c98e5c51-5dde-471d-9dcd-9dd70efadf22' \     -H 'app-device-model-name: SM-G977N' \     -H 'app-device-os-version: aos 10(Q) sdk=29' \     -H 'app-device-device-manufacturer: samsung' \     -H 'app-version: 0.0.1'" />
@@ -22,7 +23,6 @@
         <option value="package:mine firstTBT" />
         <option value="package:mine toneGenerator" />
         <option value="package:mine vehicleReadyRingCalled" />
-        <option value="package:mine false" />
       </list>
     </option>
   </component>
