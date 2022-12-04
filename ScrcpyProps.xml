@@ -2,7 +2,6 @@
   <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
     <option name="adbPath" value="/opt/homebrew/bin/adb" />
     <option name="enableRecording" value="true" />
-    <option name="position" value="true" />
     <option name="positionHeight" value="720" />
     <option name="positionWidth" value="3840" />
     <option name="positionX" value="0" />
