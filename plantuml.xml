@@ -5,5 +5,6 @@
     <option name="dotExecutable" value="/opt/homebrew/Cellar/graphviz/7.0.5/bin/dot" />
     <option name="includedPaths" value="" />
     <option name="serverPrefix" value="https://www.plantuml.com/plantuml " />
+    <option name="usePreferentiallyGRAPHIZ_DOT" value="true" />
   </component>
 </application>
