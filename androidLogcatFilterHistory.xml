@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:umos.tap.console.drt.stage 500" />
     <option name="nonFavorites">
       <list>
+        <option value="package:umos.tap.console.drt.stage 500" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine TAG" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag: totalTBT" />
         <option value="package:mine tag: NaviSampleApp" />
         <option value="package:mine TBT" />
-        <option value="package:mine tag:tbt" />
       </list>
     </option>
   </component>
