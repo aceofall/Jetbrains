@@ -44,6 +44,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-748a12d1-RSXRB6._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Xiaomi M2101K6G" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
