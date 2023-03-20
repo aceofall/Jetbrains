@@ -75,6 +75,18 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="com.suusan2go.kotlin-fill-class">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.thelumiereguy.compose_helper">
           <value>
             <PluginData>
