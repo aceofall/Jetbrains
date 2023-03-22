@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine N42route" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine N42route" />
         <option value="package:mine " />
+        <option value="package:mine N42route" />
         <option value="package:umos.tap.con" />
         <option value="package:umos" />
         <option value="package:umos.tap.console.drt.stage bus/" />
