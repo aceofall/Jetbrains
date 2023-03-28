@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tbt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tbt" />
         <option value="package:mine" />
         <option value="package:mine tbtTotalListFlow" />
@@ -12,7 +12,6 @@
         <option value="package:mine allRoutePointsFlow" />
         <option value="package:mineallRoutePointsFlow" />
         <option value="package:mine setRoute callback" />
-        <option value="package:mine " />
         <option value="package:mine N42route" />
         <option value="package:umos.tap.con" />
         <option value="package:umos" />
