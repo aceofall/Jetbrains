@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" package:mine NaviCoreRepository.remainInfoFlow:" />
+    <option name="mostRecentlyUsed" value="remainInfoFlow" />
     <option name="nonFavorites">
       <list>
-        <option value=" package:mine NaviCoreRepository.remainInfoFlow:" />
+        <option value="remainInfoFlow" />
         <option value=" package:mine " />
+        <option value=" package:mine NaviCoreRepository.remainInfoFlow:" />
         <option value=" package:mine Adas" />
         <option value=" package:mine" />
         <option value="Adas" />
@@ -22,7 +23,6 @@
         <option value="package:mine setRoute callback" />
         <option value="package:mine N42route" />
         <option value="package:umos.tap.con" />
-        <option value="package:umos" />
       </list>
     </option>
   </component>
