@@ -3,8 +3,10 @@
     <option name="mostRecentlyUsed" value=" package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="remainInfoFlow" />
         <option value=" package:mine " />
+        <option value=" package:mine reverse" />
+        <option value=" package:mine res" />
+        <option value="remainInfoFlow" />
         <option value=" package:mine NaviCoreRepository.remainInfoFlow:" />
         <option value=" package:mine Adas" />
         <option value=" package:mine" />
@@ -21,8 +23,6 @@
         <option value="package:mine allRoutePointsFlow" />
         <option value="package:mineallRoutePointsFlow" />
         <option value="package:mine setRoute callback" />
-        <option value="package:mine N42route" />
-        <option value="package:umos.tap.con" />
       </list>
     </option>
   </component>
