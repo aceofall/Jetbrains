@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" package:mine jhson" />
+    <option name="mostRecentlyUsed" value=" package:mine naviCore" />
     <option name="nonFavorites">
       <list>
-        <option value=" package:mine jhson" />
-        <option value=" package:mine " />
-        <option value=" package:mine N42api" />
         <option value=" package:mine naviCore" />
+        <option value=" package:mine " />
+        <option value=" package:mine jhson" />
+        <option value=" package:mine N42api" />
         <option value=" package:mine moveCurrentPosition" />
         <option value=" package:mine reverse" />
         <option value=" package:mine res" />
