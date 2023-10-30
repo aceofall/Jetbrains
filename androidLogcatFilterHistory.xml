@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value=" package:umos jsonPrint" />
+        <option value=" package:umos " />
         <option value=" package:umos jsonPrint:" />
         <option value=" package:umos" />
         <option value=" package:Console" />
@@ -22,7 +23,6 @@
         <option value=" package:mine Adas" />
         <option value="Adas" />
         <option value="package:mineadas" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
