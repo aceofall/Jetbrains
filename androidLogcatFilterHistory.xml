@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" package:umos" />
+    <option name="mostRecentlyUsed" value=" package:umos jsonPrint" />
     <option name="nonFavorites">
       <list>
+        <option value=" package:umos jsonPrint" />
+        <option value=" package:umos jsonPrint:" />
         <option value=" package:umos" />
         <option value=" package:Console" />
         <option value=" package:mine" />
@@ -21,8 +23,6 @@
         <option value="Adas" />
         <option value="package:mineadas" />
         <option value="package:mine" />
-        <option value="package:mineAdas" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
