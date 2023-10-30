@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" package:mine " />
+    <option name="mostRecentlyUsed" value=" package:umos" />
     <option name="nonFavorites">
       <list>
+        <option value=" package:umos" />
+        <option value=" package:Console" />
+        <option value=" package:mine" />
         <option value=" package:mine " />
         <option value="package:mine BlueParcel::" />
         <option value="package:mine BlueParcel" />
@@ -15,14 +18,11 @@
         <option value="remainInfoFlow" />
         <option value=" package:mine NaviCoreRepository.remainInfoFlow:" />
         <option value=" package:mine Adas" />
-        <option value=" package:mine" />
         <option value="Adas" />
         <option value="package:mineadas" />
         <option value="package:mine" />
         <option value="package:mineAdas" />
         <option value="package:mine " />
-        <option value="package:mine tbt" />
-        <option value="package:mine tbtTotalListFlow" />
       </list>
     </option>
   </component>
