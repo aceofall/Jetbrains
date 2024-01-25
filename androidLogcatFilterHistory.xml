@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine :" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine :" />
         <option value=" package:umos " />
         <option value=" package:umos jsonPrint" />
@@ -22,7 +22,6 @@
         <option value="remainInfoFlow" />
         <option value=" package:mine NaviCoreRepository.remainInfoFlow:" />
         <option value=" package:mine Adas" />
-        <option value="Adas" />
       </list>
     </option>
   </component>
