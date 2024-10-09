@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:jhson | blueparcel" />
+    <option name="mostRecentlyUsed" value="tag:jhson-hd | sendHdMapTile" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:jhson-hd | sendHdMapTile" />
+        <option value="tag:jhson-hd | blueparcel" />
         <option value="tag:jhson | blueparcel" />
         <option value="tag:jhson" />
         <option value="blueparcel | navi42" />
@@ -21,8 +23,6 @@
         <option value="package:mine BlueParcel" />
         <option value=" package:mine naviCore" />
         <option value=" package:mine jhson" />
-        <option value=" package:mine N42api" />
-        <option value=" package:mine moveCurrentPosition" />
       </list>
     </option>
   </component>
