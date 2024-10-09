@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="blueparcel | navi42" />
     <option name="nonFavorites">
       <list>
+        <option value="blueparcel | navi42" />
+        <option value="navi42" />
         <option value="package:mine " />
         <option value="package:mine sendEgoPos" />
         <option value="package:mine :" />
@@ -20,8 +23,6 @@
         <option value=" package:mine moveCurrentPosition" />
         <option value=" package:mine reverse" />
         <option value=" package:mine res" />
-        <option value="remainInfoFlow" />
-        <option value=" package:mine NaviCoreRepository.remainInfoFlow:" />
       </list>
     </option>
   </component>
