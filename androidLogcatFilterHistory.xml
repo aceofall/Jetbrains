@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:jhson-hd | sendHdMapTile | tag:jhson-horizon " />
+    <option name="mostRecentlyUsed" value="tag:jhson-hd | sendHdMapTile | tag:jhson-horizon  | sendMapHorizon" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:jhson-hd | sendHdMapTile | tag:jhson-horizon  | sendMapHorizon" />
         <option value="tag:jhson-hd | sendHdMapTile | tag:jhson-horizon " />
         <option value="tag:jhson-hd | sendHdMapTile" />
         <option value="tag:jhson-hd | blueparcel" />
@@ -22,7 +23,6 @@
         <option value=" package:mine " />
         <option value="package:mine BlueParcel::" />
         <option value="package:mine BlueParcel" />
-        <option value=" package:mine naviCore" />
       </list>
     </option>
   </component>
